@@ -1,5 +1,5 @@
 applications:
-- name: ygbety-iot
+- name: hvi86i-iot
   buildpacks:
   - staticfile_buildpack
   memory: 30M
